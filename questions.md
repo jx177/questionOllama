@@ -112,3 +112,31 @@ Question: Here’s a list of the valuable scientific questions raised by the rev
 1.  **How were the second generation participants in Study 1 matched?** (Specifically, the reviewer highlights the missing detail about the matching process.)
 2.  **To what extent does the intergenerational game setting truly capture real-world dynamics of intergroup cooperation and conflict?** (Implicitly raised through the discussion of “real-world equivalents” – the reviewer wants to see a stronger connection to actual societal processes.)
 3.  **What are the welfare effects of the intergenerational economic game?** (The reviewer suggests exploring these effects, indicating a desire for a more comprehensive analysis.)
+
+# version3
+
+f"This is a peer review of a scientific article. Identify all valuable scientific questions raised by the reviewer. Only include questions that seek to clarify the scientific content of the article. Do not include questions about grammar, spelling or writing style. List the questions in a numbered list. Here is the review: {review}"
+
+Question: Here’s a numbered list of the scientific questions raised by the reviewer, based solely on their comments and excluding any editorial suggestions:
+
+1.  What are the correlations between all variables within Study 1? (Addressing potential multicollinearity)
+2.  What were the correlations between all variables within Study 2? (Addressing potential multicollinearity)
+3.  What does the third column of Table 1 in Study 1 represent? (Seeking clarification of a table element)
+4.  Regarding the categorization of legacy motives and responsibility to future generations, how do these constructs relate to the existing definition of generativity? (Specifically challenging the authors’ framing).
+5.  What is the definition of “legacy” used in the article? (Requesting a citation)
+6.  What are the effect sizes (e.g., Cohen’s d) for the comparisons presented in Table 3 of Study 1?
+7.  Should effect sizes (e.g., Cohen’s d) be added to Table 3 of Study 2?
+8.  What specific actions could be taken to overcome outgroup derogation and ingroup favoritism in intergenerational decisions, as suggested in the Discussion?
+
+
+Question: Here’s a numbered list of the valuable scientific questions raised by the reviewer, focusing solely on clarifying the scientific content of the article:
+
+1.  Does the use of an ISDG (iterated Prisoner’s Dilemma Game) adequately approximate “intergenerational dynamics,” or is the sequence too similar to a standard dictator game, thereby limiting the interpretation of the results as truly intergenerational?
+2.  What realistic actions can be taken that would affect outgroup members in the future, given the current design? (e.g., Climate change, environmental dilemmas)
+3.  Does the “generation-story” (the deception about multiple future generations) actually matter in influencing participant behavior, or does removing this element allow for a clearer test of the phenomenon?
+4.  What type of situation do the authors have in mind with their outgroup condition?
+
+Question: Here’s a numbered list of the valuable scientific questions raised by the reviewer, focusing solely on clarifying the scientific content of the article:
+
+1.  How were the second generation participants in Study 1 matched? (This directly addresses a methodological detail impacting the study’s design and potential biases.)
+2.  What specific ISDGs (Intergenerational Strategic Games Design) were utilized in the studies? (This seeks to understand the theoretical framework underpinning the experimental design.)
