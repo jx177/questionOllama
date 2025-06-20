@@ -1,0 +1,10 @@
+[
+    "What is the definition of \"super-observation\" as used in section 3.4?",
+    "What is the impact on the natural soil sink of using a lognormal distribution that enforces positivity?",
+    "What is the impact of optimizing or not optimizing separate sectors within the inversion framework?",
+    "Is it possible to include both surface and satellite observations within the inversion framework in the future?",
+    "What validation data is available for near-real time inversions, and could validation be carried out with independent surface-based observations?",
+    "What is meant by \"multiple methane species\" in the modified GEOS-Chem simulation?",
+    "What is the reasoning behind using a lognormal distribution to enforce positivity, and what effect does this have on the estimated emissions?",
+    "What does \"precompiling\" refer to in the context of HEMCO?"
+]
