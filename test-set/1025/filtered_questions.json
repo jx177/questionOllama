@@ -1,0 +1,11 @@
+[
+    "How does the mapped tagset compare to the annotation scheme used in the existing UD Thai treebank, specifically regarding the decision not to use the ADJ tag?",
+    "How does the conversion process used in this paper compare to the conversion used in the existing Thai UD treebank (Thai PUD)?",
+    "What is the extent of the variation in the results due to factors like random initialization and test set split?",
+    "How does the tag distribution before and after the conversion from ORCHID to UD?",
+    "Is it possible to combine syllable information with BERT models to potentially improve performance, and have any such experiments been conducted?",
+    "How does the performance of POS tagging with UD-style tags compare to that with ORCHID tags, and which tagset is easier for taggers to learn?",
+    "Why did multi-lingual BERT fail to improve performance, even on out-of-vocabulary words?",
+    "How are syllables generated automatically from Thai words, and is there ambiguity in this process, requiring a heuristic?",
+    "Why did using a pre-trained model hurt performance compared to simpler models?"
+]
