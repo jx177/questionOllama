@@ -1,10 +1,11 @@
 [
-    "How is the unit of wave power translated to W/m from the formula?",
-    "What is the reference for the wave power formula used?",
-    "How can wave power be negative?",
-    "Why is the latitude not maintained at a fixed distance in Figure 2?",
-    "What is the unit of Wave Energy in Figure S3?",
-    "What was the basis for dividing NAWC into five subregions?",
-    "What is the rationale for using a rectangular boundary in Figure 1?",
-    "Were any additional studies conducted to assess the impact of beach slope, substrate lithology, or riverine sediment inputs on waterline positions?"
+    "How does the unit of wave power translate to W/m from the formula provided?",
+    "What is the reference for the wave power formula used in the study?",
+    "How can wave power be negative, given the observed values in the figures?",
+    "Why does the latitude scale on the y-axis vary in Figs. 2b, c, d, and e, while it is fixed in Fig. 2a?",
+    "What is the reasoning behind the chosen color palette, given that higher wave power and sea level are represented in reddish tones, while lower values are represented in bluish tones, and this representation is reversed for wave direction and waterline position?",
+    "What was the specific reason for discarding 40% of transects from non-sandy beaches?",
+    "What is the unit of wave energy in Figure S3, and how does it relate to the wave power formula used in Figure 2?",
+    "What was the basis for dividing the NAWC into five subregions?",
+    "What parameters, such as beach slope, substrate lithology, or riverine sediment inputs, were considered, and how might they affect waterline positions on a seasonal scale?"
 ]

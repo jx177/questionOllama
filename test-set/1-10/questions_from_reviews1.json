@@ -1,0 +1,9 @@
+[
+    "Given that all data is generated from T cell lines or clones, is it important to demonstrate the observed phenomenon *in vivo* using primary T cells?",
+    "How was TCR internalization measured using an anti-TCR antibody at the beginning and end of incubation, and could this methodology be explained in more detail?",
+    "Given that differences exist between the cell populations used in this study and those in cited works, how important are these differences in explaining discrepancies in findings?",
+    "Regarding the use of stimulating versus inhibiting anti-Tim1 antibodies in mouse systems, is the observed difference in effect due to differences in Tim1 localization within or opposed to the immunological synapse (IS)?",
+    "Regarding the claim that the data supports a certain interpretation, what specific data points lead to this interpretation, and is there alternative data that could support a different interpretation?",
+    "Given the observed polarized distribution of Tim1, what experiments could be performed using primary T cells to confirm this finding?",
+    "Considering the tyrosine phosphorylation data, what experiments could be done to investigate the effects of Tim1 mutations on the distribution of signaling molecules?"
+]
