@@ -1,11 +1,19 @@
 [
-    "How does the mapped tagset compare to the annotation scheme used in the existing UD Thai treebank, specifically regarding the decision not to use the ADJ tag?",
-    "How does the conversion process used in this paper compare to the conversion used in the existing Thai UD treebank (Thai PUD)?",
-    "What is the extent of the variation in the results due to factors like random initialization and test set split?",
-    "How does the tag distribution before and after the conversion from ORCHID to UD?",
-    "Is it possible to combine syllable information with BERT models to potentially improve performance, and have any such experiments been conducted?",
-    "How does the performance of POS tagging with UD-style tags compare to that with ORCHID tags, and which tagset is easier for taggers to learn?",
-    "Why did multi-lingual BERT fail to improve performance, even on out-of-vocabulary words?",
-    "How are syllables generated automatically from Thai words, and is there ambiguity in this process, requiring a heuristic?",
-    "Why did using a pre-trained model hurt performance compared to simpler models?"
+    "What is the value of the conversion presented in comparison to existing treebanks?",
+    "Why did the authors not map some of the sub-types to morphological features during the conversion process?",
+    "How was the conversion from ORCHID to UD tagset performed?",
+    "How does POS tagging performance compare between UD-style tags and ORCHID tags?",
+    "Why did the multi-lingual BERT model fail, even for out-of-vocabulary words?",
+    "How does your mapped tagset compare to existing annotation schemes?",
+    "Is there a way to combine syllable information with the BERT models?",
+    "How are syllables generated automatically for Thai words?",
+    "Does the ORCHID corpus already provide word segmentation and train/dev/test splits?",
+    "Why did you not use CoNLL-U format for the mapped ORCHID corpus?",
+    "What was the motivation for converting ORCHID to UD tagset?",
+    "How do the results of the systems tested with both tagsets compare?",
+    "Is it possible to split Thai words into syllables without any ambiguity, or do you need a heuristic?",
+    "What is the distribution of tags before and after the conversion?",
+    "How do the results vary due to effects like random initialization and test set split?",
+    "Why does the pre-trained model not benefit from cross-lingual transfer and instead hurts performance?",
+    "Does losing information when mapping ORCHID to UD make a big difference for taggers?"
 ]

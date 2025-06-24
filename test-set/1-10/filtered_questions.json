@@ -1,6 +1,9 @@
 [
+    "Why were primary T cells not used to demonstrate the phenomenon in vivo?",
+    "How was TCR internalization measured using anti-TCR antibody?",
+    "What is the importance of differences in cell population used in this study and cited works?",
+    "How do the choice of reagents, specifically anti-Tim1 antibodies, affect T cell activation in mouse systems?",
     "How can the polarized distribution of Tim1 be confirmed using primary T cells?",
-    "How can the phenomenon of TCR internalization be demonstrated using primary T cells instead of T cell lines or clones?",
-    "Can you clarify the method used to measure TCR internalization with the anti-TCR antibody - specifically, the timing of the measurement during the incubation period?",
-    "What is the reasoning behind using anti-TIM1 antibodies that stimulate and others that inhibit T cell activation in mouse systems?"
+    "What is the basis for the interpretation of the data presented?",
+    "What are the effects of Tim1 mutations on the distribution of signaling molecules in relation to tyrosine phosphorylation data?"
 ]

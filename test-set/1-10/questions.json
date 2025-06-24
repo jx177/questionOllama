@@ -1,7 +1,9 @@
 [
-    "How was TCR internalization measured using an anti-TCR antibody at the beginning and end of the incubation period?",
-    "Is there a rationale for using continuously proliferating T lymphoblasts (D10 cells) instead of primary T cells to study this phenomenon?",
-    "Given that different anti-Tim1 antibodies can either stimulate or inhibit T cell activation in mouse models, how do the antibodies used in this study affect Tim1 localization within or opposed to the immunological synapse?",
-    "What experiments would confirm the polarized distribution of Tim1 using primary T cells?",
-    "What is the expected effect of Tim1 mutations on the distribution of signaling molecules, and how would demonstrating this support the tyrosine phosphorylation data?"
+    "How was TCR internalization measured using anti-TCR antibody?",
+    "Why were primary T cells not used to demonstrate the phenomenon in vivo?",
+    "What is the importance of differences in cell population used in this study and cited works?",
+    "How do the choice of reagents, specifically anti-Tim1 antibodies, affect T cell activation in mouse systems?",
+    "What is the basis for the interpretation of the data presented?",
+    "How can the polarized distribution of Tim1 be confirmed using primary T cells?",
+    "What are the effects of Tim1 mutations on the distribution of signaling molecules in relation to tyrosine phosphorylation data?"
 ]
